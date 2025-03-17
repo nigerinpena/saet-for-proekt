@@ -1,0 +1,137 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(fotos/foto.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+    border-radius: 0px 0px 8px 8px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+details {
+    width: 400px;
+    
+    
+    
+}
+
+
+z details {
+    
+    background-color: #bbb;
+    border-radius: 8px 8px 0px 0px;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+y details {
+
+    background-color: #bbb;
+    border-radius: 0px 0px 0px 0px;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+
+w details  {
+
+    background-color: #bbb;
+    border-radius: 0px 0px 8px 8px;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+details details {
+
+    background-color: #ccc;
+    border-radius: 0px 0px 0px 0px;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+details details h5 {
+
+    background-color: #ddd;
+    border-radius: 0px 0px 0px 0px;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+c details  {
+
+    background-color: #ccc;
+    border-radius: 0px 0px 8px 8px;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+summary {
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+h2 {
+    
+    border: medium solid #c4c4c4;
+    background-color: #c4c4c4;
+    border-radius: 8px;
+    height: auto;
+    text-align: center;
+    
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
