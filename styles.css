@@ -42,6 +42,11 @@ section {
 details {
 }
 
+audio {
+    margin: 0; /* или margin-left: 0; */
+    padding: 0;
+}
+
 
 z details {
     
